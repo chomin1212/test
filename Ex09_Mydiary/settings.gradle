@@ -1,0 +1,1 @@
+include ':app', ':ex10_diary', ':myapplication', ':ex11_rawfolder'
